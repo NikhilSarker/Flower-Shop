@@ -6,7 +6,9 @@
 body{
   font-family: 'Open Sans', sans-serif;
 }
-
+a{
+  text-decoration: none;
+}
 /* BANNER PART START */
 .banner_container{
   padding: 0px 240px;
@@ -147,3 +149,51 @@ body{
   padding-top: 20px;
 }
 /* SUPPORT PART END */
+/* DEAL PART START */
+.deal_container{
+  padding: 0px 240px;
+  border-radius: 8px;
+  background: rgba(229, 84, 115, 0.05);
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 50px;
+
+}
+.deal_text{
+  padding-left: 3.75em;
+  text-align: center;
+}
+.deal_image{
+  
+  padding: 100px 0px;
+  padding-right: 100px;
+
+}
+.deal_text_heading{
+  color: #272727;
+  font-size: 40px;
+  font-weight: 800;
+}
+.deal_heading_color{
+  color: #E55473;
+  font-size: 40px;
+  font-weight: 800;
+}
+.deal_text_description{
+  color: rgba(39, 39, 39, 0.60);
+  font-size: 18px;
+  font-weight: 400;
+  padding-top: 25px;
+  padding-bottom: 30px;
+}
+.deal_btn{
+  color: #FFF;
+  font-size: 18px;
+  font-weight: 700;
+  border-radius: 8px;
+  background: #E55473;
+  border: none;
+  padding: 20px 40px;
+}
+/* DEAL PART END */
