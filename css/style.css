@@ -123,10 +123,27 @@ body{
   text-align: center;
   color: #272727;
   text-align: center;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 700;
   text-decoration-line: underline;
   padding-top: 30px;
 
 }
 /* FEATURED PART END */
+/* SUPPORT PART START */
+.support_container{
+  margin: 125px 240px;
+  border-radius: 8px;
+  background: rgba(39, 39, 39, 0.05);
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.support_container_item{
+  text-align: center;
+  padding: 85px 0px;
+}
+.support_container_item_text{
+  padding-top: 20px;
+}
+/* SUPPORT PART END */
