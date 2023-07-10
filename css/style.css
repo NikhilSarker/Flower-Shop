@@ -197,3 +197,35 @@ a{
   padding: 20px 40px;
 }
 /* DEAL PART END */
+/* INSTAGRAM PART START */
+.instagram{
+  padding: 0px 240px;
+  margin-top: 125px;
+}
+.instagram_title_heading{
+  color: #272727;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+}
+.instagram_title_description{
+  color: rgba(39, 39, 39, 0.60);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  padding-top: 25px;
+  padding-bottom: 50px;
+}
+.instagram_image_container{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  
+}
+.instagram_image_item{
+  width: 20%;
+}
+.instagram_image_item img{
+  width: 300px;
+}
+/* INSTAGRAM PART END */
