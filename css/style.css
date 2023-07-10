@@ -223,9 +223,63 @@ a{
   
 }
 .instagram_image_item{
-  width: 20%;
+  width: 24%;
 }
 .instagram_image_item img{
-  width: 300px;
+  width: 290px;
 }
 /* INSTAGRAM PART END */
+/* LATEST DEAL PART START */
+.latest_deal{
+  margin: 125px 240px;
+  height: 350px;
+  background: url('../flower asset/Rectangle9.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+.latest_deal_title{
+  text-align: center;
+}
+.latest_deal_heading{
+  padding-top: 75px;
+  color: #272727;
+  font-size: 40px;
+  font-weight: 800;
+}
+.latest_deal_description{
+  color: rgba(39, 39, 39, 0.60);
+  font-size: 18px;
+  font-weight: 400;
+  padding-top: 15px;
+  padding-bottom: 35px;
+}
+input[type="email"]{
+  padding: 14px 0px;
+  width: 575px;
+  border-radius: 8px;
+  background: #FFF;
+  border: none;
+}
+input[type="email"]:focus{
+  padding-left: 20px;
+  outline: none;
+}
+input[type="email"]::placeholder{
+  color: rgba(39, 39, 39, 0.60);
+  font-size: 16px;
+  font-weight: 400;
+  padding-left: 20px;
+}
+.subscribe_btn{
+  color: #FFF;
+  font-size: 18px;
+  font-weight: 700;
+  border-radius: 8px;
+  background: #E55473;
+  padding: 15px 28px;
+  border: none;
+  margin-left: 15px;
+}
+/* LATEST DEAL PART END */
