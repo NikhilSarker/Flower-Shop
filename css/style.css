@@ -283,3 +283,36 @@ input[type="email"]::placeholder{
   margin-left: 15px;
 }
 /* LATEST DEAL PART END */
+/* FOOTER DEAL PART START */
+.footer_container{
+  background: #111010;
+  text-align: center;
+  padding: 125px 0px;
+}
+
+.footer_title_heading{
+  
+  color: #FFF;
+  font-size: 48px;
+  font-weight: 800;
+
+}
+.footer_heading_color{
+  color: #E55473;
+  font-size: 48px;
+  font-weight: 800;
+
+}
+.footer_title_description{
+  color: rgba(255, 255, 255, 0.90);
+  font-size: 18px;
+  font-weight: 400;
+  padding-top: 25px;
+  padding-bottom: 30px;
+}
+.footer_copyright{
+  color: rgba(255, 255, 255, 0.40);
+  font-size: 16px;
+  font-weight: 400;
+}
+/* FOOTER DEAL PART END */
