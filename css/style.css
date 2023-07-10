@@ -1,0 +1,57 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+
+/* BANNER PART START */
+.banner_container{
+  padding: 0px 240px;
+  padding-top: 50px;
+  height: 850px;
+  background-color:rgba(229, 84, 115, 0.10);
+  display: flex;
+  align-items: center; 
+  gap:1em; 
+}
+.banner_text{
+  width: 50%;
+  padding: 1.875em 0em;
+}
+.banner_image{
+  width: 50%;
+}
+
+.banner_text_heading{
+  color: #272727;
+  font-size: 60px;
+  font-weight: 800;
+  
+}
+
+.banner_text_description{
+  color: rgba(39, 39, 39, 0.60);
+  font-size: 16px;
+  font-weight: 400;
+  padding: 25px 0px;
+}
+.banner_btn{
+  color: #FFF;
+  font-family: Lato;
+  font-size: 20px;
+  font-weight: 700;
+  padding: 20px 40px;
+  border-radius: 8px;
+  background: #E55473;
+  border: none;
+}
+.banner_image{
+  text-align: center;
+}
+.banner_image img{
+  max-width: 635px;
+} 
+/* BANNER PART END */
