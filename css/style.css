@@ -31,16 +31,16 @@ a{
 
 .banner_text_heading{
   color: #272727;
-  font-size: 60px;
+  font-size: 50px;
   font-weight: 800;
   
 }
 
 .banner_text_description{
   color: rgba(39, 39, 39, 0.60);
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 400;
-  padding: 25px 0px;
+  padding: 30px 0px;
 }
 .banner_btn{
   color: #FFF;
@@ -164,7 +164,7 @@ a{
 }
 .featured_title_description{
   color: rgba(39, 39, 39, 0.60);
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 400;
   padding-top: 25px;
   padding-bottom: 50px;
@@ -268,17 +268,17 @@ a{
 }
 .deal_text_heading{
   color: #272727;
-  font-size: 40px;
+  font-size: 30px;
   font-weight: 800;
 }
 .deal_heading_color{
   color: #E55473;
-  font-size: 40px;
+  font-size: 30px;
   font-weight: 800;
 }
 .deal_text_description{
   color: rgba(39, 39, 39, 0.60);
-  font-size: 18px;
+  font-size: 14px;
   font-weight: 400;
   padding-top: 25px;
   padding-bottom: 30px;
@@ -290,7 +290,7 @@ a{
   border-radius: 8px;
   background: #E55473;
   border: none;
-  padding: 20px 40px;
+  padding: 15px 40px;
 }
 .signUp_btn:hover{
   color: #000;
@@ -312,7 +312,7 @@ a{
 .instagram_title_description{
   color: rgba(39, 39, 39, 0.60);
   text-align: center;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 400;
   padding-top: 25px;
   padding-bottom: 50px;
@@ -352,7 +352,7 @@ a{
 }
 .latest_deal_description{
   color: rgba(39, 39, 39, 0.60);
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 400;
   padding-top: 15px;
   padding-bottom: 35px;
@@ -410,14 +410,14 @@ cursor: pointer;
 }
 .footer_title_description{
   color: rgba(255, 255, 255, 0.90);
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 400;
   padding-top: 25px;
   padding-bottom: 30px;
 }
 .footer_copyright{
   color: rgba(255, 255, 255, 0.40);
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 400;
 }
 /* FOOTER DEAL PART END */
