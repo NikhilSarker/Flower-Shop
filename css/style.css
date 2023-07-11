@@ -81,7 +81,6 @@ a{
   font-size: 18px;
   font-weight: 400;
   padding-top: 25px;
-  padding-bottom: 30px;
 }
 
 .birthday_container{
@@ -91,12 +90,12 @@ a{
   align-items: center;
   justify-content: space-between;
   height: 400px;
-  gap: 10px;
+  gap: 13px;
 }
 .birthday_item1{
   text-align: center;
-  width: 385px;
-  height: 385px;
+  width: 350px;
+  height: 350px;
   border-radius: 50%;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -106,8 +105,8 @@ a{
 }
 .birthday_item2{
   text-align: center;
-  width: 385px;
-  height: 385px;
+  width: 350px;
+  height: 350px;
   border-radius: 50%;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -116,13 +115,14 @@ a{
   background: rgba(5, 151, 160, 0.15);
 }
 .birthday_item1 img, .birthday_item2 img{
-  width: 300px;
+  width: 310px;
 }
 .btq_name{
   color: #272727;
   font-size: 24px;
   font-weight: 800;
   padding-bottom: 15px;
+  padding-top: 50px;
 
 }
 .btq_price{
@@ -321,13 +321,14 @@ a{
   display: flex;
   align-items: center;
   justify-content: space-between;
+  gap: 13px;
   
 }
 .instagram_image_item{
-  width: 24%;
+  width: 25%;
 }
 .instagram_image_item img{
-  width: 290px;
+  width: 250px;
 }
 /* INSTAGRAM PART END */
 /* LATEST DEAL PART START */
