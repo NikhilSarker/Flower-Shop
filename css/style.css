@@ -90,8 +90,8 @@ a{
   display: flex;
   align-items: center;
   justify-content: space-between;
-  /* background: rgba(5, 151, 160, 0.15); */
   height: 400px;
+  gap: 10px;
 }
 .birthday_item1{
   text-align: center;
